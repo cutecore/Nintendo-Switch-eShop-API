@@ -1,6 +1,17 @@
 # Nintendo-Switch-eShop-API
  Nintendo Switch eShop API 
  
+ tip
+不同服的nsuid不一样，大概率相近，但是haccode有相同部分
+比如 va-11-hall-a-cyberpunk-bartender-action 这个游戏
+
+区域 nusid haccode
+美国 70010000016732 HACPAS36A
+英国 70010000016731 HACPAS36A
+日区 70010000017446 HACAS36B
+
+中间AS36 是一样的
+ 
  
  
 ### 港区所有游戏列表 Game Full List HK
